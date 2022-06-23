@@ -5,17 +5,16 @@
 }
 
 #branding h1 {
-    color: #fff;
+    color: #10284e;
 }
 
-a:link,
-a:visited {
-    color: #10284e;
+a:link, a:visited {
+    color: #fff;
 }
 
 div.breadcrumbs {
     background: #30caa0;
-    color: #10284e;
+    color: #ffffff;
 }
 
 div.breadcrumbs a {
